@@ -9,6 +9,13 @@
     }
   ],
   "mood_logs": [],
+  "trivia_users": [
+    {
+      "id": 1,
+      "name": "Knut",
+      "high_score": 1
+    }
+  ],
   "moods": [
     {
       "id": 1,
